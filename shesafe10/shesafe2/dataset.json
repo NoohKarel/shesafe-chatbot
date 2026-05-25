@@ -1,0 +1,560 @@
+[
+  {
+    "intent": "harassment_unwanted_touch",
+    "language": "english",
+    "question": "Someone is touching me without permission what should I do",
+    "answer": "Unwanted touching is harassment and is not acceptable under any situation. Immediately move away from that person and go to a safe or public place. If possible, clearly tell them to stop. Inform security, police, or a trusted person about the incident. Try to note details like location, time, and person description. If safe, collect evidence like CCTV location or messages. You have full right to personal safety and dignity. Document everything that happened including witnesses present. Contact women's rights organizations if needed. Remember that this is not your fault and you deserve to feel safe everywhere. Report the incident to authorities as physical contact without consent is illegal."
+  },
+  {
+    "intent": "harassment_unwanted_touch",
+    "language": "hinglish",
+    "question": "koi bina permission touch kar raha hai kya karu",
+    "answer": "Bina permission touch karna harassment hota hai aur bilkul acceptable nahi hai. Turant us person se door ho jao aur safe ya public jagah par chale jao. Agar possible ho to clearly mana karo. Security, police ya trusted person ko batao. Location, time aur person ka detail yaad rakho. Agar safe ho to evidence collect karo. Aapko safe rehne ka pura right hai. Incident ko document karo aur witnesses yaad karo. Zarurat pade to mahila adhikar sangathan se sampark karo. Yaad rakho ye aapki galti nahi hai aur aapko har jagah safe feel karne ka adhikar hai. Consent ke bina physical contact illegal hai."
+  },
+  {
+    "intent": "harassment_street_comments",
+    "language": "english",
+    "question": "Men are passing comments on me on the street",
+    "answer": "Passing unwanted comments is verbal harassment and you should not ignore repeated incidents. Try to move towards crowded or safe areas immediately. Avoid engaging in arguments if situation feels unsafe. Inform nearby police or security if available. Share your location with trusted contacts. If this happens regularly in the same area, consider reporting it. Your safety and mental peace is important. Verbal harassment can escalate to physical harassment if ignored. Report such incidents to maintain records for legal action. Remember that you have the right to walk freely without being subjected to unwanted comments."
+  },
+  {
+    "intent": "harassment_street_comments",
+    "language": "hinglish",
+    "question": "road par log comments pass kar rahe hai kya karu",
+    "answer": "Unwanted comments verbal harassment hota hai aur ise ignore nahi karna chahiye agar repeat ho raha ho. Turant bheed wali ya safe jagah par move karo. Unsafe lage to argument mat karo. Nearby police ya security ko inform karo. Trusted contact ko location share karo. Agar same jagah par baar baar ho raha hai to report karo. Aapki safety important hai. Verbal harassment physical harassment mein badh sakta hai agar ignore kiya jaye. Legal action ke liye record rakho. Yaad rakho aapko bina comments ke free walk karne ka adhikar hai."
+  },
+  {
+    "intent": "harassment_workplace_messages",
+    "language": "english",
+    "question": "Colleague is sending me uncomfortable messages",
+    "answer": "Uncomfortable or inappropriate messages from colleagues can be workplace harassment. Do not delete messages and keep them as proof. Clearly communicate that you are not comfortable. If messages continue, report to HR or Internal Complaints Committee. Workplace laws protect employees from harassment. You are not required to tolerate such behavior. Taking action early can prevent escalation. Document all instances of harassment with timestamps. Seek support from trusted colleagues or supervisors. Consider consulting with legal advisors if situation worsens. Remember that professional environments should be respectful and harassment-free."
+  },
+  {
+    "intent": "harassment_workplace_messages",
+    "language": "hinglish",
+    "question": "colleague uncomfortable messages bhej raha hai kya karu",
+    "answer": "Colleague ke uncomfortable messages workplace harassment ho sakte hai. Messages delete mat karo proof ke liye. Clear batao ki aap comfortable nahi ho. Agar continue kare to HR ya Internal Committee ko report karo. Workplace law employees ko protect karta hai. Aapko tolerate karne ki zarurat nahi hai. Jaldi action lena better hota hai. Har instance ko timestamp ke saath document karo. Trusted colleagues ya supervisors se support lo. Situation worse ho to legal advisor se sampark karo. Yaad rakho professional environment respectful hona chahiye."
+  },
+  {
+    "intent": "harassment_public_transport",
+    "language": "english",
+    "question": "Someone is harassing me in public transport",
+    "answer": "If harassment happens in public transport, move near driver, conductor, or families. Speak loudly if needed to attract attention. Try to note seat number or person description. If available, use emergency button or contact transport helpline. Inform police if situation is serious. Public transport harassment is punishable under law. Do not feel embarrassed to ask for help. Alert other passengers about the situation if possible. Keep your phone charged and accessible for emergency calls. Remember that public spaces should be safe for everyone."
+  },
+  {
+    "intent": "harassment_public_transport",
+    "language": "hinglish",
+    "question": "public transport me koi harass kar raha hai kya karu",
+    "answer": "Public transport me harassment ho to driver, conductor ya families ke paas chale jao. Zarurat pade to zor se bolo. Person ka description ya seat note karo. Emergency button ya helpline use karo agar available ho. Serious ho to police ko inform karo. Public transport harassment punishable hai. Help maangne me sharm mat karo. Situation ko dusre passengers ko batao. Phone charge rakho aur emergency calls ke liye accessible rakho. Yaad rakho public space sabke liye safe hona chahiye."
+  },
+  {
+    "intent": "harassment_online_comments",
+    "language": "english",
+    "question": "People are harassing me in social media comments",
+    "answer": "Online harassment should be reported immediately on the platform. Take screenshots before blocking the person. Adjust privacy settings to control who can comment or message. If threats are included, report to cyber crime police. Do not engage in long arguments with harassers. Protect your mental health by limiting exposure. Online safety is equally important. Save evidence of harassment for legal purposes. Block and report persistent harassers. Consider taking breaks from social media if needed. Remember that online harassment is real and has consequences."
+  },
+  {
+    "intent": "harassment_online_comments",
+    "language": "hinglish",
+    "question": "social media par log harass kar rahe hai comments me",
+    "answer": "Online harassment ko turant platform par report karo. Block karne se pehle screenshots le lo. Privacy settings strong rakho. Threat ho to cyber crime police ko report karo. Harassers se argument mat karo. Mental health protect karna zaruri hai. Online safety bhi important hai. Legal purposes ke liye evidence save karo. Persistent harassers ko block aur report karo. Social media se break lena pad sakta hai. Yaad rakho online harassment real hai aur consequences hain."
+  },
+  {
+    "intent": "sexual_abuse_assault",
+    "language": "english",
+    "question": "I have been sexually assaulted, what should I do now",
+    "answer": "First, ensure your immediate safety and move to a secure location. Do not wash or change clothes as evidence is crucial. Contact a trusted person immediately for support. Seek medical attention within 72 hours for forensic examination. File an FIR at the nearest police station without delay. Preserve all physical evidence including clothing and belongings. Contact a lawyer specializing in sexual assault cases. Reach out to women's rights organizations for counseling. Do not blame yourself as assault is never the victim's fault. Remember that justice is possible and you have rights under the law."
+  },
+  {
+    "intent": "sexual_abuse_assault",
+    "language": "hinglish",
+    "question": "mera sexual assault ho gaya hai, ab kya karna chahiye",
+    "answer": "Sabse pehle apni safety ensure karo aur secure jagah par chale jao. Clothes mat change karo ya naha mat karo kyunki evidence jaruri hai. Trust kiye hue vyakti se sampark karo. 72 ghante ke andhar medical attention lo. Fauran police station jaakar FIR dalo. Saare physical evidence preserve karo. Sexual assault case ke lawyer se sampark karo. Mahila adhikar sangathan se counseling ke liye sampark karo. Khud ko blame mat karo kyunki assault kabhi victim ki galti nahi hoti. Yaad rakho justice possible hai aur aapko kanoon ke takhat adhikar hain."
+  },
+  {
+    "intent": "sexual_abuse_child",
+    "language": "english",
+    "question": "Someone is trying to abuse a child, how can I help",
+    "answer": "If you suspect child sexual abuse, act immediately to protect the child. Do not confront the alleged perpetrator directly. Contact Childline at 1098 or police immediately. Ensure the child is in a safe environment away from the abuser. Listen to the child without judgment and provide comfort. Document everything you observe or hear. Report to local child protection services. Maintain confidentiality to protect the child's identity. Support the child emotionally throughout the process. Remember that mandatory reporting laws require citizens to report suspected abuse."
+  },
+  {
+    "intent": "sexual_abuse_child",
+    "language": "hinglish",
+    "question": "koi bachche ka sexual abuse kar raha hai, main kaise madad kar sakta hun",
+    "answer": "Agar aapko lagta hai ki koi bachcha ka sexual abuse kar raha hai, to turant action karo. Accused ko directly mat samne. Childline 1098 ya police ko turant sampark karo. Bachche ko abuser se dur safe environment mein rakho. Bachche ki baat judgment ke bina suno aur comfort dena. Jo aap dekhte ya sunte ho sab document karo. Local child protection service ko report karo. Bachche ki identity ko protect karne ke liye confidentiality maintain karo. Process ke dauran emotional support dena. Yaad rakho mandatory reporting law citizen ko report karne ke liye kahati hai."
+  },
+  {
+    "intent": "sexual_abuse_rape",
+    "language": "english",
+    "question": "I have been raped, what are my legal rights",
+    "answer": "As a rape survivor, you have several legal rights including medical care, legal representation, and protection. You have the right to a fair and speedy trial without victim-blaming. Medical examination and treatment must be provided free of cost. Your identity and privacy must be protected by law. You can seek compensation from the state for trauma. Legal aid is available if you cannot afford a lawyer. You have the right to be informed about case progress. Support services including counseling must be provided. The burden of proof lies with the prosecution, not with you."
+  },
+  {
+    "intent": "sexual_abuse_rape",
+    "language": "hinglish",
+    "question": "mera rape ho gaya hai, mere kya kanooni adhikar hain",
+    "answer": "Rape surviver hone ke niyamit aapke kuch kanooni adhikar hain including medical care, legal representation aur protection. Aapko fair aur fast trial ka adhikar hai bina victim-blaming ke. Free medical examination aur treatment milna chahiye. Aapki identity aur privacy ko kanoon se protect kiya jana chahiye. Trauma ke liye state se compensation le sakte hain. Agar lawyer afford nahi kar sakte to legal aid available hai. Case progress ke baare mein jaankari ka adhikar hai. Counseling including support services milna chahiye. Proof ka burden prosecution par hai, aappar nahi."
+  },
+  {
+    "intent": "sexual_abuse_consent",
+    "language": "english",
+    "question": "What constitutes lack of consent in sexual situations",
+    "answer": "Lack of consent occurs when someone is forced, coerced, or unable to give voluntary agreement. Consent cannot be given if the person is unconscious, intoxicated, or under age. Silence or lack of resistance does not mean consent. Consent can be withdrawn at any time during an activity. Someone in a position of authority cannot claim consent from subordinates. Previous consent does not imply future consent. Consent must be clear, enthusiastic, and ongoing. Fear, threats, or manipulation invalidate consent. Physical force or threats of harm eliminate consent. Understanding consent is crucial for preventing sexual assault."
+  },
+  {
+    "intent": "sexual_abuse_consent",
+    "language": "hinglish",
+    "question": "sexual situations mein lack of consent kya hota hai",
+    "answer": "Lack of consent tab hota hai jab kisi ko force, coerce kiya jata hai ya voluntary agreement nahi de sakti. Consent nahi diya ja sakta agar vyakti unconscious, intoxicated ya age ke niche hai. Silence ya lack of resistance ka matlab consent nahi hai. Koi bhi time par consent withdraw kiya ja sakta hai. Authority position mein koi subordinate se consent claim nahi kar sakti. Previous consent future consent ko imply nahi karta. Consent clear, enthusiastic aur ongoing hona chahiye. Fear, threats ya manipulation consent ko invalid kar dete hain. Physical force ya harm ke threats consent ko eliminate karte hain. Consent ko samajhna sexual assault ko prevent karne ke liye crucial hai."
+  },
+  {
+    "intent": "sexual_abuse_marital",
+    "language": "english",
+    "question": "Can marital rape occur and what are my rights",
+    "answer": "Marital rape is recognized as a serious crime in many countries though laws vary. You have the right to refuse any sexual activity even within marriage. Marital rape can cause severe psychological trauma and is legally actionable. Seek help from women's rights organizations or legal advisors. Document any instances of forced sexual activity. Contact police or women's helplines if needed. Medical support is available for physical and mental health concerns. You are not obligated to remain in an abusive marriage. Legal remedies including divorce and protection orders are available. Remember that consent is required in all intimate relationships regardless of marriage status."
+  },
+  {
+    "intent": "sexual_abuse_marital",
+    "language": "hinglish",
+    "question": "marital rape ho sakta hai aur mere adhikar kya hain",
+    "answer": "Marital rape ko kai deshon mein serious crime maana jata hai haalaki laws alag-alag hain. Marriage ke bhi andhar aapko koi bhi sexual activity ko refuse karne ka adhikar hai. Marital rape severe psychological trauma kar sakta hai aur legally actionable hai. Mahila adhikar sangathan ya legal advisor se help lo. Forced sexual activity ke instances ko document karo. Zarurat pade to police ya mahila helpline se sampark karo. Physical aur mental health concerns ke liye medical support available hai. Abusive marriage mein rahne ke liye aapki obligation nahi hai. Divorce aur protection orders including legal remedies available hain. Yaad rakho consent sarve intimate relationships mein jaruri hai marriage status se alag."
+  },
+  {
+    "intent": "offensive_language_verbal",
+    "language": "english",
+    "question": "How do I deal with offensive language and verbal abuse",
+    "answer": "Document instances of offensive language and verbal abuse with dates and witnesses. Clearly communicate that the language is unacceptable and ask for it to stop. Report to authorities or supervisors depending on the context. Seek support from friends, family, or counselors. Limit contact with the person using offensive language. Protect your mental health by taking breaks when needed. Understand that such behavior is about the perpetrator, not you. Know your rights in different settings like workplace or public spaces. Consider legal options if the abuse continues. Remember that you deserve to be treated with respect."
+  },
+  {
+    "intent": "offensive_language_verbal",
+    "language": "hinglish",
+    "question": "offensive language aur verbal abuse kaise deal karu",
+    "answer": "Offensive language aur verbal abuse ke instances ko dates aur witnesses ke saath document karo. Clear communication karo ki language unacceptable hai aur band karne ko kaho. Context ke hisab se authorities ya supervisors ko report karo. Friends, family ya counselors se support lo. Person se contact kam karo jo offensive language use karta hai. Mental health ko protect karo zarurat ke time breaks lo. Samjho ki aisa behavior perpetrator ke baare mein hai, aapke baare mein nahi. Different settings mein apne adhikar jaano jaise workplace ya public spaces. Agar abuse continue karta hai to legal options consider karo. Yaad rakho aapko respect ke sath treat kiye jane ka adhikar hai."
+  },
+  {
+    "intent": "offensive_language_sexual",
+    "language": "english",
+    "question": "Someone is using sexually offensive language towards me",
+    "answer": "Sexually offensive language is a form of harassment and you should not tolerate it. Clearly tell the person to stop and that their behavior is inappropriate. Move away from the person and go to a safe environment. Document the incident including what was said and when. Report to police or relevant authorities immediately. Seek support from trusted individuals or organizations. Consider filing a formal complaint if in workplace or educational setting. Your mental and emotional well-being matters significantly. Do not let anyone make you feel uncomfortable with inappropriate language. Remember that such behavior is illegal and you have legal recourse."
+  },
+  {
+    "intent": "offensive_language_sexual",
+    "language": "hinglish",
+    "question": "koi mujhe sexually offensive language bol raha hai",
+    "answer": "Sexually offensive language harassment ka ek roop hai aur aapko ise tolerate nahi karna chahiye. Vyakti ko clear taur par batao ki band kare aur unki behavior inappropriate hai. Vyakti se door chale jao aur safe environment mein jao. Incident ko document karo including kya bola gaya tha aur kab. Police ya relevant authorities ko turant report karo. Trusted individuals ya organizations se support lo. Workplace ya educational setting mein formal complaint file karna consider karo. Aapki mental aur emotional well-being bahut important hai. Koi bhi aapko inappropriate language se uncomfortable feel karane ka nahi dena chahiye. Yaad rakho aisa behavior illegal hai aur aapko legal recourse hai."
+  },
+  {
+    "intent": "offensive_language_workplace",
+    "language": "english",
+    "question": "Colleagues use offensive language at work, how to address",
+    "answer": "Address workplace offensive language by documenting specific incidents with dates and witnesses. Report to HR department or management immediately. Use company policies as reference when filing complaints. Seek support from employee assistance programs. Request a transfer if the environment becomes hostile. File formal grievances following company procedures. Consider legal action if internal remedies fail. Maintain professionalism while protecting your rights. Build alliances with supportive colleagues for mutual protection. Remember that workplaces must provide harassment-free environments by law."
+  },
+  {
+    "intent": "offensive_language_workplace",
+    "language": "hinglish",
+    "question": "office mein colleagues offensive language use karte hain, kaise address karein",
+    "answer": "Workplace offensive language ko address karo specific incidents ko dates aur witnesses ke saath document karke. HR department ya management ko turant report karo. Company policies ko reference ke roop mein use karo complaints file karne mein. Employee assistance programs se support lo. Environment hostile ho jaaye to transfer mang sakto hain. Company procedures ke hisab se formal grievances file karo. Internal remedies fail ho to legal action consider karo. Apne rights ko protect karne mein professionalism maintain karo. Mutual protection ke liye supportive colleagues ke saath alliances banayein. Yaad rakho workplaces ko kanoon ke takhat harassment-free environment provide karna chahiye."
+  },
+  {
+    "intent": "offensive_language_public",
+    "language": "english",
+    "question": "Strangers use offensive language in public, what can I do",
+    "answer": "In public spaces, move away from people using offensive language and seek safer areas. Report to local authorities or security personnel if possible. Document the incident if it continues or escalates. Inform nearby people about the inappropriate behavior. Contact emergency services if you feel threatened. Use women's helpline numbers for support and guidance. Keep your phone charged and accessible for help. Avoid engaging directly with offenders to prevent escalation. Seek support from bystanders who might help. Remember that public spaces should be respectful for everyone."
+  },
+  {
+    "intent": "offensive_language_public",
+    "language": "hinglish",
+    "question": "public mein strangers offensive language use karte hain, main kya kar sakti hun",
+    "answer": "Public spaces mein, offensive language use karne wale logon se door aur safer areas mein chale jao. Local authorities ya security personnel ko report karo agar possible ho. Incident ko document karo agar continue ya escalate hota hai. Nearby logon ko inappropriate behavior ke baare mein batayein. Threatened feel ho to emergency services ko contact karo. Support aur guidance ke liye mahila helpline numbers use karo. Help ke liye phone charge aur accessible rakho. Escalation ko rokne ke liye offenders ke saath direct engagement se bachein. Bystanders se support lo jo madad kar sake. Yaad rakho public spaces sabke liye respectful hona chahiye."
+  },
+  {
+    "intent": "offensive_language_school",
+    "language": "english",
+    "question": "Students use offensive language at school, how to handle",
+    "answer": "Report offensive language at school to teachers, counselors, or administrators immediately. Document specific incidents with dates, times, and witnesses. Seek support from school counseling services. Talk to parents or guardians about the situation. Use peer mediation programs if available. Request meetings with school officials to address the issue. File formal complaints following school procedures. Involve parents' committees or PTA if needed. Consider changing classes or schools if environment doesn't improve. Remember that educational institutions must provide safe learning environments."
+  },
+  {
+    "intent": "offensive_language_school",
+    "language": "hinglish",
+    "question": "school mein students offensive language use karte hain, kaise handle karein",
+    "answer": "School mein offensive language ko turant teachers, counselors ya administrators ko report karo. Specific incidents ko dates, times aur witnesses ke saath document karo. School counseling services se support lo. Parents ya guardians ko situation ke baare mein batayein. Peer mediation programs use karo agar available ho. Issue ko address karne ke liye school officials ke saath meetings mang sakti hain. School procedures ke hisab se formal complaints file karo. Parents committees ya PTA ko involve karo zarurat pade to. Environment improve na ho to classes ya schools change karne ka vichar karo. Yaad rakho educational institutions ko safe learning environment provide karna chahiye."
+  },
+  {
+    "intent": "stalking_following_physical",
+    "language": "english",
+    "question": "Someone is physically following me, what should I do",
+    "answer": "Trust your instincts if you feel someone is following you. Change your route frequently and go to well-populated areas. Enter shops, restaurants, or public buildings to lose the follower. Call a trusted person and inform them about the situation. Share your live location with someone reliable. If the person continues following, go to police station immediately. Document the follower's appearance, clothing, and vehicle details. Avoid going home or to familiar places directly. Use public transportation or call a cab instead of walking alone. Remember that persistent following is illegal stalking and reportable."
+  },
+  {
+    "intent": "stalking_following_physical",
+    "language": "hinglish",
+    "question": "koi mujhe physically follow kar raha hai, main kya karna chahiye",
+    "answer": "Agar aapko lag raha hai ki koi aapko follow kar raha hai to apni instincts par bharosa karo. Apna route frequently change karo aur well-populated areas mein chale jao. Shops, restaurants ya public buildings mein entrance karo follower ko kho dene ke liye. Trust kiye hue vyakti ko call karo aur situation ke baare mein batayein. Apne live location ko kisi reliable vyakti ke saath share karo. Agar vyakti continue karta hai to police station jaane mein deri mat karo. Follower ke appearance, clothes aur vehicle details ko document karo. Ghar ya familiar jagahon par jaane se bachein. Public transportation use karo ya cab call karo solo walking ke bajaye. Yaad rakho persistent following illegal stalking hai aur reportable hai."
+  },
+  {
+    "intent": "stalking_following_online",
+    "language": "english",
+    "question": "Someone is stalking me online, how to protect myself",
+    "answer": "Secure your social media accounts by adjusting privacy settings and removing location tags. Document all stalking incidents including screenshots and timestamps. Block and report the stalker on all platforms. Change passwords regularly and use strong, unique passwords. Inform close friends and family about the stalking. Report to cybercrime authorities immediately. Avoid responding to any communications from the stalker. Save all evidence in multiple locations. Consider taking a temporary break from social media. Seek professional help if the stalking affects your mental health."
+  },
+  {
+    "intent": "stalking_following_online",
+    "language": "hinglish",
+    "question": "koi mujhe online stalk kar raha hai, khud ko kaise protect karein",
+    "answer": "Social media accounts ko secure karo privacy settings adjust karke aur location tags remove karke. Sabhi stalking incidents ko document karo including screenshots aur timestamps. Saare platforms par stalker ko block aur report karo. Passwords regularly change karo aur strong, unique passwords use karo. Close friends aur family ko stalking ke baare mein batayein. Cybercrime authorities ko turant report karo. Stalker se koi bhi communications ka response mat dena. Saare evidence ko multiple locations mein save karo. Social media se temporary break lena consider karo. Mental health affected ho to professional help lein."
+  },
+  {
+    "intent": "stalking_following_workplace",
+    "language": "english",
+    "question": "A colleague is stalking me at work, what are my options",
+    "answer": "Document all stalking behaviors by the colleague with dates, times, and witnesses. Report immediately to HR department or management. Use workplace anti-harassment policies to support your case. Request security measures or workplace adjustments. Seek legal advice if internal measures are insufficient. File a police complaint if stalking involves threats or physical presence. Inform trusted colleagues about the situation for support. Request a transfer to different department or location. Maintain detailed records of all incidents. Remember that workplace stalking creates hostile work environment and is illegal."
+  },
+  {
+    "intent": "stalking_following_workplace",
+    "language": "hinglish",
+    "question": "ek colleague kaam par mujhe stalk kar raha hai, mere kya options hain",
+    "answer": "Colleague ke stalking behaviors ko dates, times aur witnesses ke saath document karo. HR department ya management ko turant report karo. Case support karne ke liye workplace anti-harassment policies use karo. Security measures ya workplace adjustments mangiye. Internal measures insufficient ho to legal advice lein. Stalking mein threats ya physical presence involve ho to police complaint file karo. Situation ke baare mein trusted colleagues ko support ke liye batayein. Different department ya location mein transfer mangiye. Saare incidents ka detailed records maintain karo. Yaad rakho workplace stalking hostile work environment create karta hai aur illegal hai."
+  },
+  {
+    "intent": "stalking_following_neighborhood",
+    "language": "english",
+    "question": "A neighbor is stalking me, how can I stop this",
+    "answer": "Document all stalking incidents by the neighbor with detailed observations. Inform trusted neighbors about the situation for support. Install security cameras if possible and legal. Report to local police and request patrol increases in your area. Change your daily routines to unpredictable patterns. Avoid being alone in common areas or entry points. Contact landlord or housing society about the issue. Seek restraining order or protection order from court. Keep evidence of stalking behaviors for legal proceedings. Remember that persistent stalking is criminal behavior and punishable by law."
+  },
+  {
+    "intent": "stalking_following_neighborhood",
+    "language": "hinglish",
+    "question": "ek padosi mujhe stalk kar raha hai, ise kaise rokein",
+    "answer": "Neighbor ke stalking incidents ko detailed observations ke saath document karo. Situation ke baare mein trusted neighbors ko support ke liye batayein. Security cameras install karo agar possible aur legal ho. Local police ko report karo aur apne area mein patrol increase mangiye. Daily routines ko unpredictable patterns mein change karo. Common areas ya entry points mein akela hone se bachein. Issue ke baare mein landlord ya housing society se sampark karo. Court se restraining order ya protection order mangiye. Legal proceedings ke liye stalking behaviors ka evidence rakho. Yaad rakho persistent stalking criminal behavior hai aur kanoon ke takhat punishable hai."
+  },
+  {
+    "intent": "stalking_following_ex",
+    "language": "english",
+    "question": "My ex-partner is stalking me after breakup, what can I do",
+    "answer": "Document all stalking behaviors by your ex-partner including messages, calls, and sightings. Obtain a restraining order or protection order from court immediately. Inform police about the stalking and provide evidence. Change your daily routines and routes to unpredictable patterns. Secure your home with locks, alarms, and security cameras. Inform close friends, family, and workplace about the situation. Block all communication channels and avoid contact. Seek support from domestic violence organizations. Consider changing phone numbers or addresses if necessary. Remember that post-breakup stalking is serious and requires immediate legal action."
+  },
+  {
+    "intent": "stalking_following_ex",
+    "language": "hinglish",
+    "question": "mera ex-partner breakup ke baad mujhe stalk kar raha hai, main kya kar sakti hun",
+    "answer": "Ex-partner ke stalking behaviors ko messages, calls aur sightings including document karo. Court se turant restraining order ya protection order lein. Police ko stalking ke baare mein batayein aur evidence provide karo. Daily routines aur routes ko unpredictable patterns mein change karo. Home ko locks, alarms aur security cameras ke saath secure karo. Close friends, family aur workplace ko situation ke baare mein batayein. Saare communication channels block karo aur contact se bachein. Domestic violence organizations se support lo. Phone numbers ya addresses change karne ka vichar karo zarurat pade to. Yaad rakho post-breakup stalking serious hai aur immediate legal action ki jarurat hai."
+  },
+  {
+    "intent": "domestic_violence_spousal",
+    "language": "english",
+    "question": "My spouse is being violent, how can I protect myself",
+    "answer": "Create a safety plan that includes escape routes and safe places to go. Keep important documents, money, and essentials in a secure, accessible location. Identify trusted friends or family members who can help. Contact women's shelters or domestic violence hotlines for support. Document all incidents of violence with photos and records. Seek medical attention for injuries and keep medical records. File for restraining orders or protection orders. Consult with legal professionals about divorce or separation. Consider counseling for emotional support and healing. Remember that domestic violence is never your fault and help is available."
+  },
+  {
+    "intent": "domestic_violence_spousal",
+    "language": "hinglish",
+    "question": "mera pati/vakti violent ho raha hai, khud ko kaise protect karu",
+    "answer": "Escape routes aur safe places include karte hue safety plan banayein. Important documents, paise aur essentials ko secure, accessible location mein rakhein. Help karne wale trusted friends ya family members ko identify karo. Mahila ashrams ya domestic violence hotlines se support lein. Violence ke saare incidents ko photos aur records ke saath document karo. Injuries ke liye medical attention lo aur medical records rakhein. Restraining orders ya protection orders ke liye file karo. Divorce ya separation ke baare mein legal professionals se sampark karo. Emotional support aur healing ke liye counseling consider karo. Yaad rakho domestic violence kabhi aapki galti nahi hai aur help available hai."
+  },
+  {
+    "intent": "domestic_violence_parental",
+    "language": "english",
+    "question": "Parents are being violent at home, what should I do",
+    "answer": "Contact trusted adults outside your family like teachers, counselors, or relatives. Reach out to child protection services or youth helplines for support. Document incidents of parental violence with dates and witnesses. Keep a journal of events and any injuries sustained. Seek counseling or therapy for emotional support. Inform school authorities if you're a minor. Connect with support groups for young people experiencing family violence. Consider living with a trusted relative or in foster care if possible. Understand that violence is never justified, even in families. Seek legal protection if the situation is severe and ongoing."
+  },
+  {
+    "intent": "domestic_violence_parental",
+    "language": "hinglish",
+    "question": "ghar par parents violent hain, main kya karna chahiye",
+    "answer": "Family ke bahar trusted adults jaise teachers, counselors ya relatives se sampark karo. Child protection services ya youth helplines se support lein. Parental violence ke incidents ko dates aur witnesses ke saath document karo. Events aur sustained injuries ka journal rakho. Emotional support ke liye counseling ya therapy lo. Minor hote hue school authorities ko batayein. Family violence experience karne wale young logon ke support groups se connect karo. Possible ho to trusted relative ke saath ya foster care mein rehne ka vichar karo. Samjho ki violence kabhi justified nahi hai, even in families. Situation severe aur ongoing ho to legal protection mangiye."
+  },
+  {
+    "intent": "domestic_violence_sibling",
+    "language": "english",
+    "question": "My sibling is being violent towards me, how to handle",
+    "answer": "Set clear boundaries and communicate that the violent behavior is unacceptable. Document all incidents of violence by your sibling with evidence. Seek mediation through family counseling or trusted elders. Report to parents or guardians if the violence continues. Contact youth services or helplines for guidance and support. Create distance from the violent sibling when possible. Seek emotional support from friends or professional counselors. Inform school authorities if you're a student experiencing sibling violence. Consider legal action if the violence escalates or causes injury. Remember that no one has the right to be violent toward you, even family members."
+  },
+  {
+    "intent": "domestic_violence_sibling",
+    "language": "hinglish",
+    "question": "mera bhai/bhen mujhpar violent ho raha hai, kaise handle karein",
+    "answer": "Clear boundaries set karo aur communicate karo ki violent behavior unacceptable hai. Sibling ke violence ke saare incidents ko evidence ke saath document karo. Family counseling ya trusted elders ke through mediation lo. Violence continue ho to parents ya guardians ko report karo. Guidance aur support ke liye youth services ya helplines se sampark karo. Possible ho to violent sibling se distance banao. Friends ya professional counselors se emotional support lo. Student ho to school authorities ko sibling violence ke baare mein batayein. Violence escalate ho ya injury karne par legal action consider karo. Yaad rakho kisi ko bhi aapke prati violent hona ka right nahi hai, even family members."
+  },
+  {
+    "intent": "domestic_violence_elderly",
+    "language": "english",
+    "question": "Elderly family member is being violent, what are my options",
+    "answer": "Assess whether the violence is due to medical conditions or cognitive issues. Contact healthcare professionals for evaluation and treatment. Document incidents of violence and seek support from other family members. Report to adult protective services if necessary. Seek counseling to cope with the stress and trauma. Consider family therapy to address underlying issues. Explore options for alternative care arrangements. Consult with legal professionals about protection orders. Ensure your own safety while providing care. Remember that elder abuse is serious and reportable to authorities."
+  },
+  {
+    "intent": "domestic_violence_elderly",
+    "language": "hinglish",
+    "question": "buzurg family member violent ho rahe hain, mere kya options hain",
+    "answer": "Assess karo ki violence medical conditions ya cognitive issues ki wajah se ho rahi hai ya nahi. Evaluation aur treatment ke liye healthcare professionals se sampark karo. Violence ke incidents ko document karo aur dusre family members se support lo. Zarurat pade to adult protective services ko report karo. Stress aur trauma cope karne ke liye counseling lo. Underlying issues address karne ke liye family therapy consider karo. Alternative care arrangements ke options explore karo. Protection orders ke baare mein legal professionals se sampark karo. Care provide karne mein apni safety ensure karo. Yaad rakho elder abuse serious hai aur authorities ko reportable hai."
+  },
+  {
+    "intent": "domestic_violence_financial",
+    "language": "english",
+    "question": "Partner controls all finances and threatens me, how to escape",
+    "answer": "Secretly save small amounts of money in a separate account unknown to your partner. Keep copies of financial documents and identification in a safe place. Seek help from financial counselors or women's organizations. Research your legal rights regarding property and assets. Build a support network of trusted individuals. Plan your escape strategy carefully considering children and pets. Learn about economic empowerment programs for survivors. Contact legal aid services for divorce or separation guidance. Document financial abuse with bank statements and records. Remember that financial control is a form of domestic violence and help is available."
+  },
+  {
+    "intent": "domestic_violence_financial",
+    "language": "hinglish",
+    "question": "partner saare finances control karta hai aur dhamki deta hai, escape kaise karein",
+    "answer": "Secretly thoda-thoda paise save karo partner ko pata na chale aise separate account mein. Financial documents aur identification ke copies ko safe place mein rakhein. Financial counselors ya mahila organizations se help lo. Property aur assets ke baare mein apne legal rights research karo. Trusted individuals ka support network banayein. Children aur pets consider karke escape strategy carefully plan karo. Survivors ke liye economic empowerment programs ke baare mein jaano. Divorce ya separation guidance ke liye legal aid services se sampark karo. Financial abuse ko bank statements aur records ke saath document karo. Yaad rakho financial control domestic violence ka ek roop hai aur help available hai."
+  },
+  {
+    "intent": "cyber_harassment_social_media",
+    "language": "english",
+    "question": "Someone is harassing me on social media platforms, what can I do",
+    "answer": "Block the harasser immediately on all social media platforms and report their profile. Save screenshots of all harassing messages, comments, and posts as evidence. Adjust your privacy settings to limit who can contact you or view your content. Do not engage with the harasser as this may encourage more harassment. Report the harassment to cybercrime authorities with all evidence. Inform trusted friends and family about the situation for support. Consider deactivating or changing your social media accounts temporarily. Seek help from platform's safety centers and reporting tools. Document all incidents with dates and times for legal purposes. Remember that online harassment is real and has legal consequences."
+  },
+  {
+    "intent": "cyber_harassment_social_media",
+    "language": "hinglish",
+    "question": "koi Mujhe social media platforms par harass kar raha hai, main kya kar sakti hun",
+    "answer": "Harasser ko turant saare social media platforms par block karo aur unki profile report karo. Saare harassing messages, comments aur posts ke screenshots ko evidence ke roop mein save karo. Privacy settings adjust karo ki kaun contact kar sakta hai ya aapka content dekh sakta hai. Harasser ke saath engagement mat karo kyunki isse aur harassment encourage ho sakta hai. Cybercrime authorities ko saare evidence ke saath harassment report karo. Situation ke baare mein trusted friends aur family ko support ke liye batayein. Social media accounts ko temporary deactive karne ya change karne ka vichar karo. Platform ke safety centers aur reporting tools se help lo. Legal purposes ke liye saare incidents ko dates aur times ke saath document karo. Yaad rakho online harassment real hai aur legal consequences hai."
+  },
+  {
+    "intent": "cyber_harassment_messaging",
+    "language": "english",
+    "question": "I'm receiving threatening messages through messaging apps",
+    "answer": "Save all threatening messages as evidence and do not delete them. Block the sender immediately on all messaging platforms. Report the threats to cybercrime authorities with screenshots. Inform trusted contacts about the threats for your safety. Change your phone number if the harassment continues. Avoid opening messages from unknown numbers. Enable two-factor authentication on your accounts. Report to the messaging platform's safety team. Seek legal advice about obtaining protection orders. Remember that threatening messages constitute criminal behavior and should be reported."
+  },
+  {
+    "intent": "cyber_harassment_messaging",
+    "language": "hinglish",
+    "question": "mujhe messaging apps ke through threatening messages mil rahe hain",
+    "answer": "Saare threatening messages ko evidence ke roop mein save karo aur delete mat karo. Sender ko turant saare messaging platforms par block karo. Cybercrime authorities ko screenshots ke saath threats report karo. Apni safety ke liye trusted contacts ko threats ke baare mein batayein. Harassment continue ho to phone number change karo. Unknown numbers se messages open karne se bachein. Accounts par two-factor authentication enable karo. Messaging platform ke safety team ko report karo. Protection orders ke baare mein legal advice lein. Yaad rakho threatening messages criminal behavior hai aur report kiya jaana chahiye."
+  },
+  {
+    "intent": "cyber_harassment_email",
+    "language": "english",
+    "question": "Someone is sending me harassing emails, how to deal with this",
+    "answer": "Forward harassing emails to your email provider's spam or abuse reporting section. Save copies of all harassing emails in a separate folder as evidence. Block the sender's email address and report the account. Change your email password and enable security features. Inform your IT department if emails are sent through work accounts. Report to cybercrime units with email headers and metadata. Consider creating a new email address for sensitive communications. Use email filters to automatically delete suspicious messages. Document the harassment timeline for legal purposes. Remember that email harassment can be prosecuted under cybercrime laws."
+  },
+  {
+    "intent": "cyber_harassment_email",
+    "language": "hinglish",
+    "question": "koi Mujhe harassing emails bhej raha hai, ise kaise deal karein",
+    "answer": "Harassing emails ko apne email provider ke spam ya abuse reporting section mein forward karo. Saare harassing emails ke copies ko evidence ke roop mein separate folder mein save karo. Sender ke email address ko block karo aur account report karo. Email password change karo aur security features enable karo. Work accounts ke through emails bheje ja rahe hain to IT department ko batayein. Cybercrime units ko email headers aur metadata ke saath report karo. Sensitive communications ke liye new email address create karne ka vichar karo. Suspicious messages automatically delete karne ke liye email filters use karo. Legal purposes ke liye harassment timeline ko document karo. Yaad rakho email harassment ko cybercrime laws ke takhat prosecute kiya ja sakta hai."
+  },
+  {
+    "intent": "cyber_harassment_doxxing",
+    "language": "english",
+    "question": "Someone is sharing my personal information online, what should I do",
+    "answer": "Document all instances where your personal information has been shared without consent. Report the doxxing to platform administrators and request immediate removal. Contact cybercrime authorities and file a complaint. Change passwords and security settings on all your accounts. Inform your employer, school, or other institutions about the doxxing. Request that your personal information be removed from websites. Monitor your credit reports and bank accounts for suspicious activity. Seek legal advice about privacy violation lawsuits. Inform friends and family to be cautious of phishing attempts. Remember that doxxing violates privacy rights and is illegal in most jurisdictions."
+  },
+  {
+    "intent": "cyber_harassment_doxxing",
+    "language": "hinglish",
+    "question": "koi mere personal information ko online share kar raha hai, main kya karna chahiye",
+    "answer": "Consent ke bina aapke personal information ko share kiye jaane ke saare instances ko document karo. Platform administrators ko doxxing report karo aur immediate removal mangiye. Cybercrime authorities se sampark karo aur complaint file karo. Saare accounts par passwords aur security settings change karo. Doxxing ke baare mein apne employer, school ya dusre institutions ko batayein. Websites se aapke personal information remove karne ka request karo. Credit reports aur bank accounts ko suspicious activity ke liye monitor karo. Privacy violation lawsuits ke baare mein legal advice lein. Phishing attempts ke liye friends aur family ko cautious rehne ko kaho. Yaad rakho doxxing privacy rights ko violate karta hai aur most jurisdictions mein illegal hai."
+  },
+  {
+    "intent": "cyber_harassment_revenge_porn",
+    "language": "english",
+    "question": "Someone is sharing intimate images of me without consent, how to stop this",
+    "answer": "Report the unauthorized sharing of intimate images to cybercrime authorities immediately. Contact the platforms where images are posted to request removal. Document all instances with screenshots and dates. Seek legal help from attorneys specializing in revenge porn cases. File a police complaint under relevant laws protecting against image abuse. Inform trusted friends and family about the situation. Change passwords and secure all your accounts. Request takedown notices from website administrators. Consider counseling for emotional support. Remember that distributing intimate images without consent is illegal and punishable."
+  },
+  {
+    "intent": "cyber_harassment_revenge_porn",
+    "language": "hinglish",
+    "question": "koi mere intimate images bina meri marzi ke share kar raha hai, ise kaise rokein",
+    "answer": "Intimate images ke unauthorized sharing ko turant cybercrime authorities ko report karo. Images post kiye gaye platforms se removal mangiye. Screenshots aur dates ke saath saare instances ko document karo. Revenge porn cases ke specialization wale attorneys se legal help lein. Image abuse ke khilaf relevant laws ke takhat police complaint file karo. Situation ke baare mein trusted friends aur family ko batayein. Passwords change karo aur saare accounts secure karo. Website administrators se takedown notices mangiye. Emotional support ke liye counseling consider karo. Yaad rakho intimate images distribute karne ka consent ke bina illegal aur punishable hai."
+  },
+  {
+    "intent": "threat_intimidation_physical",
+    "language": "english",
+    "question": "Someone is making physical threats against me, what should I do",
+    "answer": "Take all physical threats seriously and document them immediately with dates and witnesses. Report the threats to police and provide any evidence available. Obtain a protection order or restraining order from court. Inform your employer, school, or housing authority about the threats. Keep your phone charged and accessible for emergency calls. Share your location with trusted contacts regularly. Avoid being alone in isolated areas or at night. Change your daily routines to unpredictable patterns. Seek support from victim advocacy organizations. Remember that physical threats are criminal acts and must be reported to authorities."
+  },
+  {
+    "intent": "threat_intimidation_physical",
+    "language": "hinglish",
+    "question": "koi mujhe physical threats de raha hai, main kya karna chahiye",
+    "answer": "Saare physical threats ko seriously lo aur dates aur witnesses ke saath turant document karo. Police ko threats report karo aur available evidence provide karo. Court se protection order ya restraining order lein. Threats ke baare mein apne employer, school ya housing authority ko batayein. Emergency calls ke liye phone charge aur accessible rakho. Trusted contacts ke saath regularly location share karo. Isolated areas ya raat mein akela hone se bachein. Daily routines ko unpredictable patterns mein change karo. Victim advocacy organizations se support lo. Yaad rakho physical threats criminal acts hain aur authorities ko report kiye jaane chahiye."
+  },
+  {
+    "intent": "threat_intimidation_verbal",
+    "language": "english",
+    "question": "I'm receiving verbal threats, how serious should I take them",
+    "answer": "All verbal threats should be taken seriously as they can escalate to physical violence. Document the threats with exact words, dates, and witnesses. Report to police and provide audio recordings if available. Seek legal advice about obtaining protection orders. Inform trusted individuals about the threats for your safety. Avoid contact with the person making threats. Change your usual routes and locations. Keep evidence of threats for legal proceedings. Consider the context and history of the person making threats. Remember that verbal threats can be prosecuted under intimidation laws."
+  },
+  {
+    "intent": "threat_intimidation_verbal",
+    "language": "hinglish",
+    "question": "mujhe verbal threats mil rahe hain, unhe kitna seriously lena chahiye",
+    "answer": "Saare verbal threats ko seriously lena chahiye kyunki physical violence mein escalate kar sakte hain. Exact words, dates aur witnesses ke saath threats ko document karo. Police ko report karo aur available audio recordings provide karo. Protection orders ke baare mein legal advice lein. Apni safety ke liye trusted individuals ko threats ke baare mein batayein. Threats dene wale vyakti se contact avoid karo. Usual routes aur locations change karo. Legal proceedings ke liye threats ka evidence rakho. Threats dene wale vyakti ke context aur history ko consider karo. Yaad rakho verbal threats ko intimidation laws ke takhat prosecute kiya ja sakta hai."
+  },
+  {
+    "intent": "threat_intimidation_property",
+    "language": "english",
+    "question": "Someone is threatening to damage my property, what legal options do I have",
+    "answer": "Document all property-related threats and any actual damage that occurs. Install security cameras and other protective measures. Report threats to police and file complaints for attempted property damage. Seek restraining orders to prevent further threats. Contact your insurance company about coverage for damages. Document property value and potential losses for legal claims. Consult with lawyers about civil suits for damages. Increase security measures around your property. Inform neighbors about the threats for additional vigilance. Remember that property threats constitute criminal intimidation and are punishable by law."
+  },
+  {
+    "intent": "threat_intimidation_property",
+    "language": "hinglish",
+    "question": "koi mere property ko nuksan pahunchane ka threats de raha hai, mere paas kya legal options hain",
+    "answer": "Property-related threats aur actual damage occurrence ko document karo. Security cameras aur dusre protective measures install karo. Threats ko police ko report karo aur attempted property damage ke liye complaints file karo. Further threats rokne ke liye restraining orders mangiye. Damages ke liye apne insurance company se sampark karo. Legal claims ke liye property value aur potential losses ko document karo. Damages ke liye lawyers se civil suits ke baare mein sampark karo. Apne property ke aas-paas security measures increase karo. Additional vigilance ke liye neighbors ko threats ke baare mein batayein. Yaad rakho property threats criminal intimidation hai aur kanoon ke takhat punishable hai."
+  },
+  {
+    "intent": "threat_intimidation_workplace",
+    "language": "english",
+    "question": "Coworker is making threats at workplace, how to address this",
+    "answer": "Report workplace threats to HR department and management immediately. Document all threats with dates, times, and witnesses. Use company policies regarding workplace violence and threats. Request security measures or temporary transfers if needed. Seek support from employee assistance programs. File complaints following internal procedures. Inform trusted colleagues about the situation. Consider involving police if threats are severe. Request protection orders if threats continue. Remember that employers are legally required to provide safe workplaces."
+  },
+  {
+    "intent": "threat_intimidation_workplace",
+    "language": "hinglish",
+    "question": "coworker kaam par threats kar raha hai, ise kaise address karein",
+    "answer": "Workplace threats ko turant HR department aur management ko report karo. Dates, times aur witnesses ke saath saare threats ko document karo. Workplace violence aur threats ke baare mein company policies ka upyog karo. Security measures ya temporary transfers ki zarurat pade to mangiye. Employee assistance programs se support lo. Internal procedures ke hisab se complaints file karo. Situation ke baare mein trusted colleagues ko batayein. Threats severe ho to police involve karo. Threats continue ho to protection orders mangiye. Yaad rakho employers ko safe workplaces provide karne ke liye legal requirement hai."
+  },
+  {
+    "intent": "threat_intimidation_family",
+    "language": "english",
+    "question": "Family member is making threats, how can I protect myself",
+    "answer": "Document threats made by family members with dates and evidence. Seek help from other family members or trusted individuals. Contact local authorities if threats are serious. Obtain protection orders if necessary. Inform your doctor or therapist about the situation. Create a safety plan with escape routes and safe places. Keep important documents and essentials accessible. Join support groups for people experiencing family threats. Consider family counseling or mediation services. Remember that family threats are still illegal and reportable to authorities."
+  },
+  {
+    "intent": "threat_intimidation_family",
+    "language": "hinglish",
+    "question": "family member threats kar raha hai, khud ko kaise protect karu",
+    "answer": "Dates aur evidence ke saath family members ke threats ko document karo. Dusre family members ya trusted individuals se help lo. Threats serious ho to local authorities se sampark karo. Zarurat pade to protection orders lein. Situation ke baare mein apne doctor ya therapist ko batayein. Escape routes aur safe places ke saath safety plan banayein. Important documents aur essentials accessible rakho. Family threats experience karne wale logon ke support groups join karo. Family counseling ya mediation services consider karo. Yaad rakho family threats bhi illegal hain aur authorities ko reportable hai."
+  },
+  {
+    "intent": "emergency_sos_immediate",
+    "language": "english",
+    "question": "I am in immediate danger, what should I do right now",
+    "answer": "Call 112 or your local emergency number immediately if you are in immediate danger. If you cannot make a call, send a text message to emergency contacts with your location. Make noise to attract attention from nearby people. Run to the nearest public place or police station. Use self-defense techniques if physically attacked. Hide in a secure location if escape is not possible. Signal for help through windows or balconies. Activate any available emergency alarms or security systems. Remember to prioritize your life over material possessions. Help is available and people want to assist you in this critical moment."
+  },
+  {
+    "intent": "emergency_sos_immediate",
+    "language": "hinglish",
+    "question": "main turant danger mein hun, abhi kya karna chahiye",
+    "answer": "Turant 112 ya apne local emergency number call karo agar aap turant danger mein hain. Call nahi kar sakte to emergency contacts ko text message bhejo apni location ke saath. Noise banakar nearby logon ka attention attract karo. Nearest public place ya police station mein bhago. Physical attack hone par self-defense techniques ka upyog karo. Escape possible nahi ho to secure location mein chhupiye. Windows ya balconies ke through help ke liye signal karo. Available emergency alarms ya security systems activate karo. Material possessions se zyada apni life ko prioritize karo. Help available hai aur log aapki iss critical moment mein madad karna chahte hain."
+  },
+  {
+    "intent": "emergency_sos_women",
+    "language": "english",
+    "question": "What are the emergency numbers specifically for women safety",
+    "answer": "Dial 112 for all emergencies in India which connects to police, fire, and medical services. Call 181 for women's helpline which provides immediate assistance and support. Contact 1091 for women's dedicated emergency line in some states. Use 1098 for child protection emergencies. Reach out to local women's police stations or cells. Download emergency apps like Himmat, My Safetipin, or R-Safe. Use social media to broadcast your location during emergencies. Inform trusted contacts about your whereabouts regularly. Keep a list of emergency contacts readily accessible. Remember that help is available 24/7 for women in distress."
+  },
+  {
+    "intent": "emergency_sos_women",
+    "language": "hinglish",
+    "question": "mahila suraksha ke liye specifically emergency numbers kya hain",
+    "answer": "India mein sabhi emergencies ke liye 112 dial karo jo police, fire aur medical services se connect karta hai. Immediate assistance aur support ke liye 181 call karo jo mahila helpline hai. Kuch states mein mahila dedicated emergency line ke liye 1091 contact karo. Child protection emergencies ke liye 1098 ka upyog karo. Local mahila police stations ya cells se sampark karo. Himmat, My Safetipin, ya R-Safe jaise emergency apps download karo. Emergencies ke dauran apni location broadcast karne ke liye social media ka upyog karo. Regular basis par trusted contacts ko apne whereabouts ke baare mein batayein. Emergency contacts ki list readily accessible rakho. Yaad rakho distress mein mahilon ke liye 24/7 help available hai."
+  },
+  {
+    "intent": "emergency_sos_technology",
+    "language": "english",
+    "question": "How can I use technology for emergency help",
+    "answer": "Use the emergency SOS feature on smartphones by pressing power button rapidly. Share live location through messaging apps with trusted contacts. Send distress messages through social media platforms. Use voice assistants to call emergency services hands-free. Activate GPS tracking on your devices for location monitoring. Install safety apps that automatically alert contacts during emergencies. Set up emergency contacts in your phone's lock screen. Use smart home devices to trigger alarms or alerts. Enable location sharing on social media during unsafe situations. Remember that technology can be a lifeline in critical moments."
+  },
+  {
+    "intent": "emergency_sos_technology",
+    "language": "hinglish",
+    "question": "main technology ka upyog emergency help ke liye kaise kar sakti hun",
+    "answer": "Smartphones par power button ko rapidly press karke emergency SOS feature ka upyog karo. Trusted contacts ke saath messaging apps ke through live location share karo. Social media platforms ke through distress messages bhejo. Hands-free emergency services call karne ke liye voice assistants ka upyog karo. Location monitoring ke liye apne devices par GPS tracking activate karo. Emergencies ke dauran automatic alerts bhejne wale safety apps install karo. Emergency contacts ko apne phone ke lock screen mein set up karo. Alarms ya alerts trigger karne ke liye smart home devices ka upyog karo. Unsafe situations ke dauran social media par location sharing enable karo. Yaad rakho technology critical moments mein lifeline ho sakti hai."
+  },
+  {
+    "intent": "emergency_sos_signaling",
+    "language": "english",
+    "question": "What are non-verbal ways to signal for help in emergencies",
+    "answer": "Use the international distress signal by raising your arms to form an 'X'. Flash lights or use phone flashlight to signal for help. Wave bright colored clothing or objects to attract attention. Bang on windows or doors to create noise. Use hand gestures like pointing to your throat to indicate choking. Place bright items in windows to signal for help. Tap out SOS pattern (three short, three long, three short) on surfaces. Use mirrors or reflective surfaces to signal aircraft or boats. Create smoke signals if in outdoor areas. Remember that non-verbal signals can be crucial when verbal communication is not possible."
+  },
+  {
+    "intent": "emergency_sos_signaling",
+    "language": "hinglish",
+    "question": "emergencies mein help ke liye non-verbal ways kya hain",
+    "answer": "International distress signal ka upyog karke 'X' banana ke liye apne arms raise karo. Help signal karne ke liye lights flash karo ya phone flashlight ka upyog karo. Attention attract karne ke liye bright colored clothes ya objects wave karo. Noise banane ke liye windows ya doors par bang karo. Choking indicate karne ke liye pointing to your throat jaise hand gestures ka upyog karo. Help signal karne ke liye windows mein bright items place karo. SOS pattern (three short, three long, three short) ko surfaces par tap out karo. Aircraft ya boats signal karne ke liye mirrors ya reflective surfaces ka upyog karo. Outdoor areas mein smoke signals create karo. Yaad rakho verbal communication possible nahi ho to non-verbal signals crucial ho sakte hain."
+  },
+  {
+    "intent": "emergency_sos_safe_spaces",
+    "language": "english",
+    "question": "How do I identify and reach safe spaces during emergencies",
+    "answer": "Identify safe spaces like police stations, hospitals, schools, and government buildings. Look for well-lit areas with security cameras and people around. Recognize businesses that stay open late and have staff present. Know the locations of women's help desks at railway stations and airports. Identify religious places and community centers as safe havens. Locate public restrooms in shopping areas which are usually monitored. Know which stores have security guards and are open 24/7. Identify bus stops and public transportation hubs. Remember that any public place with people is generally safer than isolated areas. Create mental maps of safe routes in your neighborhood."
+  },
+  {
+    "intent": "emergency_sos_safe_spaces",
+    "language": "hinglish",
+    "question": "emergencies ke dauran main safe spaces identify aur reach kaise karu",
+    "answer": "Police stations, hospitals, schools aur government buildings jaise safe spaces ko identify karo. Security cameras aur logon ke saath well-lit areas ko dekho. Late tak khule rehne wale aur staff present hone wale businesses ko recognize karo. Railway stations aur airports par mahila help desks ke locations jaano. Religious places aur community centers ko safe havens ke roop mein identify karo. Shopping areas mein public restrooms ko locate karo jo generally monitored hote hain. 24/7 open hone wale stores ko jaano jo security guards ke saath hain. Bus stops aur public transportation hubs ko identify karo. Yaad rakho logon ke saath koi bhi public place isolated areas se generally safer hai. Apne neighborhood mein safe routes ka mental maps banayein."
+  },
+  {
+    "intent": "legal_help_rights_constitutional",
+    "language": "english",
+    "question": "What constitutional rights do women have for safety and protection",
+    "answer": "Women have fundamental right to life and personal liberty under Article 21 of the Constitution. Right to equality and equal protection of laws under Articles 14 and 15. Protection against discrimination and harassment in public places. Right to live with dignity and freedom from fear. Access to legal remedies for violations of rights. Right to equal opportunity in employment and education. Protection from domestic violence and sexual harassment. Right to privacy and reproductive rights. Equal inheritance and property rights. Access to justice and fair trial procedures. These rights form the foundation of women's safety and protection."
+  },
+  {
+    "intent": "legal_help_rights_constitutional",
+    "language": "hinglish",
+    "question": "suraksha aur protection ke liye mahilon ke paas kaun se sanketik adhikar hain",
+    "answer": "Mahilon ko Constitution ke Article 21 ke takhat life aur personal liberty ka fundamental right hai. Articles 14 aur 15 ke takhat equality aur laws ke equal protection ka right hai. Public places mein discrimination aur harassment ke khilaf protection hai. Dignity ke saath aur fear se free rehne ka right hai. Rights ke violations ke liye legal remedies ka access hai. Employment aur education mein equal opportunity ka right hai. Domestic violence aur sexual harassment se protection hai. Privacy aur reproductive rights ka right hai. Equal inheritance aur property rights hai. Justice aur fair trial procedures ka access hai. Ye rights mahila suraksha aur protection ke foundation hain."
+  },
+  {
+    "intent": "legal_help_rights_laws",
+    "language": "english",
+    "question": "What specific laws protect women from various forms of violence",
+    "answer": "Protection of Women from Domestic Violence Act, 2005 provides shelter and relief. The Criminal Law (Amendment) Act, 2013 strengthened rape laws significantly. The Sexual Harassment of Women at Workplace Act, 2013 ensures safe work environment. The Dowry Prohibition Act prevents dowry-related violence. The Immoral Traffic (Prevention) Act combats trafficking. The Medical Termination of Pregnancy Act protects reproductive rights. The Maternity Benefit Act ensures workplace support. The Equal Remuneration Act guarantees equal pay. The Juvenile Justice Act protects girl children. The Scheduled Castes and Tribes (Prevention of Atrocities) Act provides additional protection for vulnerable women."
+  },
+  {
+    "intent": "legal_help_rights_laws",
+    "language": "hinglish",
+    "question": "mahilon ko violence ke various forms se bachane ke liye kaun se specific laws hain",
+    "answer": "Domestic Violence Act, 2005 mahilon ko shelter aur relief provide karta hai. Criminal Law (Amendment) Act, 2013 rape laws ko significantly strengthen karta hai. Sexual Harassment of Women at Workplace Act, 2013 safe work environment ensure karta hai. Dowry Prohibition Act dowry-related violence ko rokta hai. Immoral Traffic (Prevention) Act trafficking ka samna karta hai. Medical Termination of Pregnancy Act reproductive rights ko protect karta hai. Maternity Benefit Act workplace support ensure karta hai. Equal Remuneration Act equal pay guarantee karta hai. Juvenile Justice Act girl children ko protect karta hai. Scheduled Castes and Tribes (Prevention of Atrocities) Act vulnerable mahilon ke liye additional protection provide karta hai."
+  },
+  {
+    "intent": "legal_help_rights_protection_orders",
+    "language": "english",
+    "question": "How can I obtain protection orders against abusers",
+    "answer": "Contact local courts or legal aid societies to file for protection orders. Approach women's help desks at police stations for assistance. Consult with legal professionals specializing in domestic violence. File complaints under relevant protection acts with police. Gather evidence including medical reports, witness statements, and photographs. Seek help from NGOs working on women's rights. Present your case before the magistrate with proper documentation. Request interim protection during the legal process. Ensure compliance with court orders through regular follow-up. Remember that protection orders are enforceable by law and violators can be arrested."
+  },
+  {
+    "intent": "legal_help_rights_protection_orders",
+    "language": "hinglish",
+    "question": "abusers ke khilaf main protection orders kaise obtain kar sakti hun",
+    "answer": "Protection orders ke liye local courts ya legal aid societies se sampark karo. Assistance ke liye police stations ke mahila help desks approach karo. Domestic violence ke specialization wale legal professionals se sampark karo. Police ke saath relevant protection acts ke takhat complaints file karo. Medical reports, witness statements aur photographs including evidence gather karo. Mahila adhikar par kaam karne wale NGOs se help lo. Proper documentation ke saath magistrate ke samne apna case present karo. Legal process ke dauran interim protection mangiye. Regular follow-up karke court orders ke compliance ka ensure karo. Yaad rakho protection orders law ke takhat enforceable hain aur violators ko arrest kiya ja sakta hai."
+  },
+  {
+    "intent": "legal_help_rights_evidence",
+    "language": "english",
+    "question": "What kind of evidence is needed for legal proceedings against perpetrators",
+    "answer": "Medical reports documenting injuries and trauma sustained. Photographs of physical evidence including bruises, damaged property, or scenes. Witness statements from people who observed the incidents. Audio or video recordings of threats or violent acts. Electronic evidence including text messages, emails, and social media communications. Police reports and FIR copies filed during incidents. Financial records showing economic abuse or control. Psychological evaluations documenting mental trauma. Expert testimony from forensic specialists or counselors. Documentation of any previous similar incidents. All evidence must be preserved properly and presented through legal channels."
+  },
+  {
+    "intent": "legal_help_rights_evidence",
+    "language": "hinglish",
+    "question": "perpetrators ke khilaf legal proceedings ke liye kaun se prakar ke evidence ki jarurat hoti hai",
+    "answer": "Injuries aur sustained trauma ko document karne wale medical reports. Bruises, damaged property ya scenes include physical evidence ke photographs. Incidents ko observe karne wale logon ke witness statements. Threats ya violent acts ke audio ya video recordings. Text messages, emails aur social media communications include electronic evidence. Incidents ke dauran filed police reports aur FIR copies. Economic abuse ya control ko show karne wale financial records. Mental trauma ko document karne wale psychological evaluations. Forensic specialists ya counselors se expert testimony. Previous similar incidents ka documentation. Saare evidence ko properly preserve karna aur legal channels ke through present karna chahiye."
+  },
+  {
+    "intent": "legal_help_rights_court_procedures",
+    "language": "english",
+    "question": "What are the court procedures for filing cases against gender-based violence",
+    "answer": "File FIR at the nearest police station where the incident occurred. Obtain a copy of the FIR for your records. Engage a lawyer specializing in gender-based violence cases. File chargesheet with the help of police and legal counsel. Attend all court hearings and present evidence systematically. Request special courts if available for gender-based crimes. Seek support from victim advocacy groups during proceedings. Utilize witness protection schemes if necessary. Apply for compensation under victim compensation schemes. Appeal if verdict is unsatisfactory. Court procedures may vary by offense type but victims have rights throughout the process."
+  },
+  {
+    "intent": "legal_help_rights_court_procedures",
+    "language": "hinglish",
+    "question": "gender-based violence ke khilaf cases file karne ke liye court procedures kya hain",
+    "answer": "Incident hua jagah ke nearest police station mein FIR file karo. Records ke liye FIR ki copy obtain karo. Gender-based violence cases ke specialization wale lawyer ko engage karo. Police aur legal counsel ki help se chargesheet file karo. Saare court hearings attend karo aur systematic way se evidence present karo. Gender-based crimes ke liye special courts available ho to request karo. Proceedings ke dauran victim advocacy groups se support lo. Zarurat pade to witness protection schemes ka upyog karo. Victim compensation schemes ke takhat compensation apply karo. Verdict satisfactory nahi ho to appeal karo. Court procedures offense type ke hisab se vary kar sakte hain lekin process ke dauran victims ko rights hain."
+  },
+  {
+    "intent": "mental_emotional_support_counseling",
+    "language": "english",
+    "question": "Where can I get professional counseling for trauma and emotional distress",
+    "answer": "Professional counseling for trauma and emotional distress is available through multiple channels. Contact local hospitals and clinics for mental health services and counseling. Reach out to NGOs specializing in women's mental health and trauma recovery. Access online counseling platforms and teletherapy services. Visit university counseling centers if you're a student. Contact employee assistance programs through your workplace. Seek support from religious or spiritual counselors. Join support groups for survivors of similar experiences. Access government mental health facilities and services. Use mobile apps offering mental health support and crisis intervention. Remember that seeking help is a sign of strength, not weakness."
+  },
+  {
+    "intent": "mental_emotional_support_counseling",
+    "language": "hinglish",
+    "question": "trauma aur emotional distress ke liye main professional counseling kahaan se le sakti hun",
+    "answer": "Trauma aur emotional distress ke liye professional counseling multiple channels ke through available hai. Mental health services aur counseling ke liye local hospitals aur clinics se sampark karo. Mahila mental health aur trauma recovery ke specialization wale NGOs se sampark karo. Online counseling platforms aur teletherapy services ka access karo. Student ho to university counseling centers visit karo. Employee assistance programs ko workplace ke through contact karo. Religious ya spiritual counselors se support lein. Similar experiences survive karne wale logon ke support groups join karo. Government mental health facilities aur services ka access karo. Mental health support aur crisis intervention offer karne wale mobile apps ka upyog karo. Yaad rakho help mangna strength ka sign hai, weakness ka nahi."
+  },
+  {
+    "intent": "mental_emotional_support_crisis",
+    "language": "english",
+    "question": "I am having a mental health crisis, what can I do",
+    "answer": "During a mental health crisis, contact helplines immediately such as 181 for women or 144 for suicide prevention. Reach out to trusted friends or family members for support. Go to the nearest hospital emergency room if you feel unsafe. Practice grounding techniques like deep breathing or focusing on physical sensations. Remove access to harmful objects or substances. Contact mental health professionals or therapists urgently. Use crisis intervention apps on your phone. Remember that crisis is temporary and help is available. Allow others to support you during this difficult time. Crisis passes and better days are ahead."
+  }
+]
